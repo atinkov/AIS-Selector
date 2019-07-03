@@ -1,17 +1,16 @@
-from base import SelectorBasePage
+from selenium import webdriver
 import time
+from webium import Find, BasePage
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
-from selenium import webdriver
 
 class SelectorMain():
 
     def __init__(self):
-        SelectorBasePage.__init__(self)
-        self.driver = SelectorBasePage.driver
-        self.wait = WebDriverWait(self.driver, 30)
+        self.driver = webdriver.Chrome('C:\chromedriver\chromedriver.exe')
+        self.wait = WebDriverWait(self.driver, 600)
 
     def login(self):
         self.driver.maximize_window()
@@ -24,7 +23,7 @@ class SelectorMain():
         self.driver.find_element_by_xpath('//*[@type="submit"]').click()
         self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@class="navbar-brand"]')))
 
-    def activate_device(self, device_id, role):
+    def activate_device(self, device_id, device_name, role):
         for element in self.driver.find_elements_by_xpath('//*[@class="nav navbar-nav"]/li'):
             if element.text == "Администрирование":
                 element.click()
@@ -32,22 +31,32 @@ class SelectorMain():
         for element in self.driver.find_elements_by_xpath('//*[@class="dropdown open"][@ng-show="vm.menuItemsVisibility.showAdminSettings"]//li'):
             if element.text == "Устройства":
                 element.click()
-        self.wait.until(EC.presence_of_element_located((By.XPATH,'//*[text()="Очистить"]')))
-        self.driver.find_element_by_xpath('//*[text()="Очистить"]').click()
-        time.sleep(3)
+        self.wait.until(EC.presence_of_element_located((By.XPATH,"//*[contains(text(),'Очистить')]")))
+        self.driver.find_element_by_xpath("//*[contains(text(),'Очистить')]").click()
         self.driver.find_element_by_id('filter_fingerprint').send_keys(device_id)
-        self.driver.find_element_by_xpath("//*[text()='Найти']").click()
-        time.sleep(2)
-        self.wait.until(EC.presence_of_element_located((By.XPATH,'//div[@ds-table="vm.table"]')))
-        self.driver.find_element_by_xpath('//span[@title="Редактировать"]').click()
+        self.driver.find_element_by_xpath("//*[contains(text(),'Найти')]").click()
+        self.wait.until(EC.presence_of_element_located((By.XPATH, '//table[@class="table table-hover table-striped table-bordered table-responsive ng-scope ng-table border-LRB-None"]')))
+        self.wait.until(EC.presence_of_element_located((By.XPATH,'//span[contains(@title, "Редактировать")]')))
+        self.driver.find_element_by_xpath('//span[contains(@title, "Редактировать")]').click()
         time.sleep(3)
-        self.driver.find_element_by_xpath('//*[@id="page-top"]/div[3]/div[2]/div/div/div/div/div[3]/div/div/div/div[8]/div/div/div/div/div[2]/div/div').click()
+        self.wait.until(EC.presence_of_element_located((By.XPATH, '//button[1][@class="multiselect dropdown-toggle btn btn-default form-control ng-isolate-scope"]')))
+        self.driver.find_element_by_xpath('//button[1][@class="multiselect dropdown-toggle btn btn-default form-control ng-isolate-scope"]').click()
+        self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="page-top"]//ul[@class="multiselect-container dropdown-menu"]')))
+        if device_name not in self.driver.find_element_by_xpath('//*[@id="page-top"]//ul[@class="multiselect-container dropdown-menu"]').text:
+            self.driver.find_element_by_xpath('//label[contains(text(),"Создать аккаунт")]').click()
+        else:
+            for element in self.driver.find_elements_by_xpath('//*[@id="page-top"]//ul[@class="multiselect-container dropdown-menu"]/li'):
+                if device_name in element.text:
+                    element.click()
+        self.wait.until(EC.presence_of_element_located((By.XPATH, '//button[@class="multiselect dropdown-toggle btn btn-default form-control ng-isolate-scope"][contains(@title, "Не выбрано")]')))
+        self.driver.find_element_by_xpath('//button[@class="multiselect dropdown-toggle btn btn-default form-control ng-isolate-scope"][contains(@title, "Не выбрано")]').click()
         self.wait.until(EC.presence_of_element_located((By.XPATH, '//div[@class="btn-group open"]')))
         for element in self.driver.find_elements_by_xpath('//div[@class="btn-group open"]/ul/li'):
             if role in element.text:
                 element.click()
         self.wait.until(EC.presence_of_element_located((By.XPATH, '//button[@title="Администраторы"]')))
         self.driver.find_element_by_xpath('//button[@title="Администраторы"]').click()
+        self.wait.until(EC.presence_of_element_located((By.XPATH, '// *[contains(text(), "Подтвержден?")]')))
         self.driver.find_element_by_xpath('// *[contains(text(), "Подтвержден?")]').click()
 
     def get_device_api_key(self):
@@ -55,31 +64,28 @@ class SelectorMain():
 
     def save_device_settings(self):
         self.driver.find_element_by_xpath('//button[contains(text(), "Применить")]').click()
-        time.sleep(2)
 
-    def open_report_data(self):
-        self.wait.until(EC.element_to_be_clickable ((By.XPATH, '//*[@id="topbar"]//a[@href="/upload/reports"]')))
+    def load_report_open(self, report_name):
+        self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="topbar"]/ul[@class="nav navbar-nav"]/li')))
         for element in self.driver.find_elements_by_xpath('//*[@id="topbar"]/ul[@class="nav navbar-nav"]/li'):
             if element.text == "Загрузка данных":
                 element.click()
-        self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="topbar"]//a[@href="/upload/reports"]')))
-        self.driver.find_element_by_xpath('//*[@id="topbar"]//a[@href="/upload/reports"]').click()
-
-    def select_organization(self, report_name):
+        self.wait.until(EC.presence_of_element_located((By.XPATH, '//a[contains(text(),"Данные по отчётам")]')))
+        self.driver.find_element_by_xpath('//a[contains(text(),"Данные по отчётам")]').click()
         self.wait.until(EC.presence_of_element_located((By.XPATH, '//button[@class="btn btn-default"]')))
         self.driver.find_element_by_xpath('//button[@class="btn btn-default"]').click()
-        time.sleep(3)
+        self.wait.until(EC.presence_of_element_located((By.XPATH, '//div[@class="m clearfix ng-isolate-scope"]')))
         self.driver.find_element_by_xpath('//button[@class="multiselect dropdown-toggle btn btn-default form-control ng-isolate-scope"]').click()
         for element in self.driver.find_elements_by_xpath('//ul[@class="multiselect-container dropdown-menu"]/li'):
             if report_name in element.text:
                 element.click()
-        self.driver.find_element_by_xpath('//button[text()="Найти"]').click()
-        time.sleep(1)
-        self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="container"]//tr[1]//a[contains(text(), "'+str(report_name)+'")]')))
+        self.driver.find_element_by_xpath('//button[@class="multiselect dropdown-toggle btn btn-default form-control ng-isolate-scope"]').click()
+        self.driver.find_element_by_xpath("//*[contains(text(),'Найти')]").click()
+        self.wait.until(EC.presence_of_element_located((By.XPATH, '//tbody[@class="ng-scope"]/tr')))
 
     def select_report_period(self):
         row=1
-        for element in self.driver.find_elements_by_xpath('//tbody[@class="ng-scope"]/tr'):
+        for element in range(len(self.driver.find_elements_by_xpath('//tbody[@class="ng-scope"]/tr'))):
             if self.driver.find_element_by_xpath('//table/tbody/tr[' + str(row) + ']/td[8]/div/span').text != '0':
                 if self.driver.find_element_by_xpath('//table/tbody/tr[' + str(row) + ']/td[9]/div/span').text == '0':
                     self.driver.find_element_by_xpath('//tbody[@class="ng-scope"]/tr[' + str(row) + ']/td[2]/div/a').click()
@@ -91,7 +97,6 @@ class SelectorMain():
                 break
 
     def switch_to_report_window(self):
-        time.sleep(1)
         self.driver.switch_to.window(self.driver.window_handles[1])
         self.wait.until(EC.presence_of_element_located((By.XPATH, '//h1[text()="Данные по инфоблокам для отчета  "]')))
 
@@ -109,7 +114,8 @@ class SelectorMain():
     #     return report_period
 
     def convert_date(self):
-        self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="container"]//strong[@ng-class="vm.getGroupRowClass()"]')))
+        self.wait.until(EC.presence_of_element_located(
+            (By.XPATH, '//*[@id="container"]//strong[@ng-class="vm.getGroupRowClass()"]')))
         target = self.driver.find_element_by_xpath('//*[@id="container"]//strong[@ng-class="vm.getGroupRowClass()"]')
         actions = ActionChains(self.driver)
         actions.move_to_element(target)
@@ -142,8 +148,6 @@ class SelectorMain():
         #(// *[ @ id = "container"] // tr / td[9] / div / span / i) xpath для признака предоставлен для инфоблока
         #driver.find_elements_by_xpath('//*[@id="container"]//tr[@ng-class="vm.getRowClass(item)"]') список всех инфоблоков
         #('// *[ @ id = "container"] // tr['+str(y)+'] // div / input') - чекбокс инфоблока с порядковым номером равным y
-        self.driver.switch_to.window(self.driver.window_handles[1])
-        self.wait.until(EC.presence_of_element_located((By.XPATH, '//h1[text()="Данные по инфоблокам для отчета  "]')))
         self.driver.refresh()
         self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="container"]//span[text()="100"]')))
         self.driver.find_element_by_xpath('//*[@id="container"]//span[text()="100"]').click()
