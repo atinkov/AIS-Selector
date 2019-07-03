@@ -1,0 +1,1622 @@
+  "infoblocks": [
+    {
+      "infoblockId": "4793ac6a-c04a-42e3-b816-4ba0d0ccb7b7",
+      "text": "{\"Value\":\"Сумма понесенного ущерба на восстановление КС с начала года составила 2 370,30 тыс. руб.  04.02.2019г.  -   надлом провода, оборван рабочий провод по (+); 05.02.2019г.  -   штангами троллейбуса пережжён рабочий провод по (-); 07.02.2019г.  -  штангами троллейбуса оборван рабочий провод по (+); 09.02.2019г.  -посторонним транспортом оборван фиксирующий трос на слиянии, лопнул хомут, разрегулирована КС, наездом сломан пантограф \\tвагона.\"}",
+      "infoblockValues": []
+    },
+    {
+      "infoblockId": "e4219828-21f4-4e70-bc79-34f53d47d6b3",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"1 месяц 2017 \",\"CommonStyle\":{}}",
+          "{\"Value\":\"102\",\"CommonStyle\":{}}",
+          "{\"Value\":\"58\",\"CommonStyle\":{}}",
+          "{\"Value\":\"116ч.47мин.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"84ч.24мин.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3 196,63\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2 042,30\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"1 месяц 2018 \",\"CommonStyle\":{}}",
+          "{\"Value\":\"69\",\"CommonStyle\":{}}",
+          "{\"Value\":\"31\",\"CommonStyle\":{}}",
+          "{\"Value\":\"83ч.59мин.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"56ч.18мин.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1 895,55\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1 331,10\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"1 месяц 2019 \",\"CommonStyle\":{}}",
+          "{\"Value\":\"79\",\"CommonStyle\":{}}",
+          "{\"Value\":\"44\",\"CommonStyle\":{}}",
+          "{\"Value\":\"110ч.34мин.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"87ч.39мин.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2 619,00\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2 265,30\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"2019/2018\",\"CommonStyle\":{}}",
+          "{\"Value\":\"14,50%\",\"CommonStyle\":{}}",
+          "{\"Value\":\"42,00%\",\"CommonStyle\":{}}",
+          "{\"Value\":\"32,00%\",\"CommonStyle\":{}}",
+          "{\"Value\":\"55,70%\",\"CommonStyle\":{}}",
+          "{\"Value\":\"38,17%\",\"CommonStyle\":{}}",
+          "{\"Value\":\"70,20%\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "dadf4c5c-0944-4864-af19-d483191417e8",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"04.02.2019 – 08.02.2019\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5 158 847\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"5 065 746\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"4 559 551\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"-9,99\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-11,62\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "1a4dbc37-77bb-461b-ae41-523fc67ca291",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"Платные билеты\",\"CommonStyle\":{}}",
+          "{\"Value\":\"92196\",\"CommonStyle\":{}}",
+          "{\"Value\":\"66828\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-25368\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-27,52%\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Бесплатные билеты\",\"CommonStyle\":{}}",
+          "{\"Value\":\"45604\",\"CommonStyle\":{}}",
+          "{\"Value\":\"36353\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-9251\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-20,29%\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Всего перевезено\",\"CommonStyle\":{}}",
+          "{\"Value\":\"137800\",\"CommonStyle\":{}}",
+          "{\"Value\":\"103181\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-34619\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-25,12%\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "8732cee9-9fc4-4648-b22f-8ad16651b215",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"2017\",\"CommonStyle\":{}}",
+          "{\"Value\":\"23\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"36\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"2018\",\"CommonStyle\":{}}",
+          "{\"Value\":\"64\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"9\",\"CommonStyle\":{}}",
+          "{\"Value\":\"80\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"01.01.2019-10.02.2019\",\"CommonStyle\":{}}",
+          "{\"Value\":\"10\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"13\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "24ab9974-bd9e-4247-b5f5-5b83700a1ac1",
+      "text": "{\"Value\":\"* В отчётный период контроль над правильностью оплаты проезда на маршрутах наземного городского пассажирского транспорта общего пользования осуществлялся силами контролёров ГУП «Мосгортранс», а также совместными бригадами со специалистами (контролёрами) ГКУ «Организатор перевозок» согласно графику утверждённому сторонами на февраль 2019 года.\"}",
+      "infoblockValues": []
+    },
+    {
+      "infoblockId": "13153208-fd77-4c8a-8b5e-4d55be4ed2be",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"ПСД направлено в ГАУ «Мосгосэкспертиза   \",\"CommonStyle\":{}}",
+          "{\"Value\":\" 21 из 24\",\"CommonStyle\":{}}",
+          "{\"Value\":\"34,24 из 36,59\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3 / 1,77\",\"CommonStyle\":{}}",
+          "{\"Value\":\"94\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"В том числе:\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"- На объекты капитального ремонта 2019 г.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"18 из 18\",\"CommonStyle\":{}}",
+          "{\"Value\":\"32,47 из 32,47\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"-  На объекты капитального ремонта 2020 г.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3 из 6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1,77 из 4,12\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3 / 1,77\",\"CommonStyle\":{}}",
+          "{\"Value\":\"43\",\"CommonStyle\":{}}",
+          "{\"Value\":\"43\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Выданы замечания ГАУ «Мосгосэкспертиза»\",\"CommonStyle\":{}}",
+          "{\"Value\":\"15 из 24\",\"CommonStyle\":{}}",
+          "{\"Value\":\"27,83 из 36,59\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"76\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"В том числе:\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"- На объекты капитального ремонта 2019 г.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"15 из 18\",\"CommonStyle\":{}}",
+          "{\"Value\":\"27,83 из 32,47\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"86\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"-  На объекты капитального ремонта 2020 г.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 из 6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 из 4,12\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Получены отрицательные заключения ГАУ «Мосгосэкспертиза»\",\"CommonStyle\":{}}",
+          "{\"Value\":\"15 из 24\",\"CommonStyle\":{}}",
+          "{\"Value\":\"27,83 из 36,59\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3 / 5,95\",\"CommonStyle\":{}}",
+          "{\"Value\":\"76\",\"CommonStyle\":{}}",
+          "{\"Value\":\"10\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"В том числе:\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"- На объекты капитального ремонта 2019 г.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"15 из 18\",\"CommonStyle\":{}}",
+          "{\"Value\":\"27,83 из 32,47\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3 / 5,95\",\"CommonStyle\":{}}",
+          "{\"Value\":\"86\",\"CommonStyle\":{}}",
+          "{\"Value\":\"18\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"-  На объекты капитального ремонта 2020 г.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 из 6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 из 4,12\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Повторно ПСД направлена в ГАУ «Мосгосэкспертиза»\",\"CommonStyle\":{}}",
+          "{\"Value\":\"10 из 24\",\"CommonStyle\":{}}",
+          "{\"Value\":\"19,08 из 36,59\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"52\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"В том числе:\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"- На объекты капитального ремонта 2019 г.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"10 из 18\",\"CommonStyle\":{}}",
+          "{\"Value\":\"19,08 из 32,47\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"59\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"-  На объекты капитального ремонта 2020 г.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 из 6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 из 4,12\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Получены положительные заключения ГАУ «Мосгосэкспертиза»\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 из 24\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 из 36,59\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"В том числе:\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"- На объекты капитального ремонта 2019 г.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 из 18\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 из 32,47\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"-  На объекты капитального ремонта 2020 г.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 из 6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 из 4,12\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "15813c90-4027-46ad-9c74-a71e68dbdcc2",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"901\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7192\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7384\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7574\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7436\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"902\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1176\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1329\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1390\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1378\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"903\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6575\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6857\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7125\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6801\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"904\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7117\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7491\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7851\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7339\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"905\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3761\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3898\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4140\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3936\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"906\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2134\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2286\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2331\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2176\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"907\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3122\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3322\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3266\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3268\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"908\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3834\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4092\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4018\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3843\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"909\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1648\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1793\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1870\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1712\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"911\",\"CommonStyle\":{}}",
+          "{\"Value\":\"400\",\"CommonStyle\":{}}",
+          "{\"Value\":\"285\",\"CommonStyle\":{}}",
+          "{\"Value\":\"317\",\"CommonStyle\":{}}",
+          "{\"Value\":\"352\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"144\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7280\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7776\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7870\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7555\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "10941a68-2b58-49c7-b9c7-95dd23327ed3",
+      "text": "{\"Value\":\"* Указание ГУП «Мосгортранс» от 27.09.2018 № 99-08-51 «Об обеспечении теплового режима в салонах автобусов в зимний период 2018–2019 гг.»\"}",
+      "infoblockValues": []
+    },
+    {
+      "infoblockId": "e882e5a4-f117-493f-9393-29a785515aea",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"Автобус\",\"CommonStyle\":{}}",
+          "{\"Value\":\"22\",\"CommonStyle\":{}}",
+          "{\"Value\":\"27\",\"CommonStyle\":{}}",
+          "{\"Value\":\"741\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Троллейбус\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"130\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Трамвай\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"87\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Электробус\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"ИТОГО\",\"CommonStyle\":{}}",
+          "{\"Value\":\"28\",\"CommonStyle\":{}}",
+          "{\"Value\":\"33\",\"CommonStyle\":{}}",
+          "{\"Value\":\"963\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Общее количество обращений граждан, поступивших в ГУП «Мосгортранс»\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1836\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2281\",\"CommonStyle\":{}}",
+          "{\"Value\":\"40573\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "9c031fa9-6c5a-48b6-98ee-a3cf5dc4825a",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"04.02.2019-08.02.2019\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1,669\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1,790\",\"CommonStyle\":{}}",
+          "{\"Value\":\"+0,121 (+7,2%)\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "408fac8f-cdcc-48a1-9b5a-9a825f6a79bc",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"ГУП Мосгортранс\",\"CommonStyle\":{}}",
+          "{\"Value\":\"01.01 – 10.02\",\"CommonStyle\":{}}",
+          "{\"Value\":\"чел.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"164 290 955\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"66 638 918\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"97 652 037\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"139 645 299\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"58 499 894\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"81 145 405\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"-15,00\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-12,21\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-16,90\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"ГУП Мосгортранс\",\"CommonStyle\":{}}",
+          "{\"Value\":\"04.02 – 10.02\",\"CommonStyle\":{}}",
+          "{\"Value\":\"чел.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"30 719 395\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"12 096 146\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"18 623 249\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"27 684 632\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"11 667 604\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"16 017 028\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"-9,88\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-3,54\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-13,99\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Коммерческие перевозчики\",\"CommonStyle\":{}}",
+          "{\"Value\":\"01.01 – 10.02\",\"CommonStyle\":{}}",
+          "{\"Value\":\"чел.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"29 658 583\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"11 567 306\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"18 091 277\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"27 882 881\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"11 537 241\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"16 345 640\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"-13,62\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-10,45\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-15,77\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Коммерческие перевозчики\",\"CommonStyle\":{}}",
+          "{\"Value\":\"04.02 – 10.02\",\"CommonStyle\":{}}",
+          "{\"Value\":\"чел.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5 776 613\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"2 199 681\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"3 576 932\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"5 461 715\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"2 267 171\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"3 194 544\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"-9,18\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-2,53\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-13,46\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "8fb65662-a2bf-4ad1-bcf0-92b62e5aac8e",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"Автобус\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4/1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"103\",\"CommonStyle\":{}}",
+          "{\"Value\":\"12\",\"CommonStyle\":{}}",
+          "{\"Value\":\"33662\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0,4\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Троллейбус\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1/0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"18\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5323\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0,4\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Трамвай\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1/0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"15\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4062\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Итого\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6/1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"136\",\"CommonStyle\":{}}",
+          "{\"Value\":\"14\",\"CommonStyle\":{}}",
+          "{\"Value\":\"43047\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0,3\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "d225d2d4-096b-4b84-a7f8-ba7af40ab501",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"2018 год\",\"CommonStyle\":{}}",
+          "{\"Value\":\"чел.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1 548 685 663\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"617 414 075\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"931 271 588\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"1 443 101 387\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"566 968 578\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"876 132 809\",\"CommonStyle\":{},\"DataType\":{\"Value\":\"number\"}}",
+          "{\"Value\":\"-6,82\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-8,17\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-5,92\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "c4201c1f-eccb-42ae-8355-cd06dbd991d1",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"с   04.02.2017 по 10.02.2017\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"8\",\"CommonStyle\":{}}",
+          "{\"Value\":\"12ч.19мин.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"237,60\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"с   04.02.2018 по 10.02.2018\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"13\",\"CommonStyle\":{}}",
+          "{\"Value\":\"31ч.04мин.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"686,00\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"с   04.02.2019 по 10.02.2019\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6ч.27мин.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"97,70\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "16834fda-00bc-4d7a-848f-f727ff1b7cc6",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"901\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"12\",\"CommonStyle\":{}}",
+          "{\"Value\":\"8,7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"35\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"902\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"9\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6,7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"34\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"903\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"10\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6,7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"26\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"904\",\"CommonStyle\":{}}",
+          "{\"Value\":\"18\",\"CommonStyle\":{}}",
+          "{\"Value\":\"21\",\"CommonStyle\":{}}",
+          "{\"Value\":\"23\",\"CommonStyle\":{}}",
+          "{\"Value\":\"20,7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"48\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"905\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3,7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"19\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"906\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"10\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7,7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"28\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"907\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"8\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5\",\"CommonStyle\":{}}",
+          "{\"Value\":\"36\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"908\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3,3\",\"CommonStyle\":{}}",
+          "{\"Value\":\"16\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"909\",\"CommonStyle\":{}}",
+          "{\"Value\":\"8\",\"CommonStyle\":{}}",
+          "{\"Value\":\"10\",\"CommonStyle\":{}}",
+          "{\"Value\":\"12\",\"CommonStyle\":{}}",
+          "{\"Value\":\"10\",\"CommonStyle\":{}}",
+          "{\"Value\":\"30\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"911\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1,7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"13\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"144\",\"CommonStyle\":{}}",
+          "{\"Value\":\"14\",\"CommonStyle\":{}}",
+          "{\"Value\":\"17\",\"CommonStyle\":{}}",
+          "{\"Value\":\"18\",\"CommonStyle\":{}}",
+          "{\"Value\":\"16,3\",\"CommonStyle\":{}}",
+          "{\"Value\":\"45\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "284b13db-b584-4824-b52a-2362948e1da6",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"Автобус\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Пострадало\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"26\",\"CommonStyle\":{}}",
+          "{\"Value\":\"27\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Пострадало\",\"CommonStyle\":{}}",
+          "{\"Value\":\"30(2)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"39(1)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-9(+1)\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Автобус\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Погибло\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Погибло\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"+2\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Троллейбус\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Пострадало\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1(1)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"(+1)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Пострадало\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4(1)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-1(+1)\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Троллейбус\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Погибло\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Погибло\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Трамвай\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"+1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Пострадало\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"+1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"8\",\"CommonStyle\":{}}",
+          "{\"Value\":\"8\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Пострадало\",\"CommonStyle\":{}}",
+          "{\"Value\":\"9(1)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"8(1)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"+1\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Трамвай\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Погибло\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Погибло\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Всего\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5\",\"CommonStyle\":{}}",
+          "{\"Value\":\"+1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Итого\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6(1)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5\",\"CommonStyle\":{}}",
+          "{\"Value\":\"+1(+1)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"38\",\"CommonStyle\":{}}",
+          "{\"Value\":\"40\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-2, -5%\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Итого\",\"CommonStyle\":{}}",
+          "{\"Value\":\"43(4)/2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"52(2)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-9(+2)/+2, -13,5%\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "475b2b58-1120-4308-93a0-7b47dd1b7fac",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"901\",\"CommonStyle\":{}}",
+          "{\"Value\":\"67,6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"902\",\"CommonStyle\":{}}",
+          "{\"Value\":\"84,2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"903\",\"CommonStyle\":{}}",
+          "{\"Value\":\"90,6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"904\",\"CommonStyle\":{}}",
+          "{\"Value\":\"88,2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"905\",\"CommonStyle\":{}}",
+          "{\"Value\":\"92,9\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"906\",\"CommonStyle\":{}}",
+          "{\"Value\":\"63,7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"907\",\"CommonStyle\":{}}",
+          "{\"Value\":\"79,1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"908\",\"CommonStyle\":{}}",
+          "{\"Value\":\"74,7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"911\",\"CommonStyle\":{}}",
+          "{\"Value\":\"71,6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"95,3\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"144\",\"CommonStyle\":{}}",
+          "{\"Value\":\"89,6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "52ba2c70-a977-4f81-91cc-bcd6a2abb554",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Проектно – изыскательские работы  (ПИР) по капитальному ремонту трамвайных путей 2019-2020 г.г.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"36,59\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"В том числе: На объекты капитального ремонта 2019 г.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"32,47\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Узел \\\"Улица Вавилова – улица Кржижановского\\\", ул. Вавилова, ул.Орджоникидзе\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2,40\",\"CommonStyle\":{}}",
+          "{\"Value\":\"15.11.2018 ПСД направлена в ГАУ «Мосгосэкспертиза». 07.12.2018 выданы замечания. 17.01.2019 выдано отрицательное заключение. 31.01.2019 ПСД повторно направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Улица Шаболовка, от д. 2 до д. 56  \",\"CommonStyle\":{}}",
+          "{\"Value\":\"3,38\",\"CommonStyle\":{}}",
+          "{\"Value\":\" 30.11.2018 ПСД направлена в ГАУ «Мосгосэкспертиза». 24.12.2018 выданы замечания. 18.01.2019 выдано отрицательное заключение. 30.01.2019 ПСД повторно направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"3\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Соболевский проезд, от д. 18 до д. 22, стр. 1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3,49\",\"CommonStyle\":{}}",
+          "{\"Value\":\" 29.11.2018 ПСД направлена в ГАУ «Мосгосэкспертиза».  24.12.2018 выданы замечания. 16.01.2019 выдано отрицательное заключение. 28.01.2018 ПСД повторно направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"4\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Ломоносовский проспект, от д. 19 до д. 23\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0,47\",\"CommonStyle\":{}}",
+          "{\"Value\":\" 12.12.2018 ПСД направлена в ГАУ «Мосгосэкспертиза».  27.12.2018 выданы замечания . 04.02.2019 выдано отрицательное заключение.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"5\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Строгинское шоссе  \",\"CommonStyle\":{}}",
+          "{\"Value\":\"1,62\",\"CommonStyle\":{}}",
+          "{\"Value\":\" 19.11.2018 ПСД направлена в ГАУ «Мосгосэкспертиза».  24.12.2018 выданы замечания. 01.02.2019 выдано отрицательное заключение.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Узел \\\"Преображенская площадь\\\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0,80\",\"CommonStyle\":{}}",
+          "{\"Value\":\" 15.11.2018 ПСД направлена в ГАУ «Мосгосэкспертиза».  07.12.2018 выданы замечания. 17.01.2019 выдано отрицательное заключение. 29.01.2019 ПСД повторно направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Улица Преображенский Вал – улица Измайловский Вал  \",\"CommonStyle\":{}}",
+          "{\"Value\":\"2,19\",\"CommonStyle\":{}}",
+          "{\"Value\":\" 03.12.2018 ПСД направлена в ГАУ «Мосгосэкспертиза». 24.12.2018 выданы замечания. 18.01.2019 выдано отрицательное заключение. 30.01.2019 ПСД повторно направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"8\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Новощукинская улица  \",\"CommonStyle\":{}}",
+          "{\"Value\":\"2,01\",\"CommonStyle\":{}}",
+          "{\"Value\":\" 14.11.2018 ПСД направлена в ГАУ «Мосгосэкспертиза». 07.12.2018 выданы замечания. 17.01.2019 выдано отрицательное заключение. 29.01.2019 ПСД повторно направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"9\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\\\"Улица Подбельского\\\" – оборотное кольцо \",\"CommonStyle\":{}}",
+          "{\"Value\":\"1,34\",\"CommonStyle\":{}}",
+          "{\"Value\":\" 30.11.2018 ПСД направлена в ГАУ «Мосгосэкспертиза».  24.12.2018 выданы замечания. 15.01.2019 выдано отрицательное заключение. 25.01.2019 ПСД повторно направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"10\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\\\"Живописная\\\" – оборотное кольцо\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0,12\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6.11.2018 ПСД направлена в ГАУ «Мосгосэкспертиза».17.12.2018 выданы замечания. 17.01.2019 выдано отрицательное заключение. 31.01.2019 ПСД повторно направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"11\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Узел «Проспект Буденного – Семеновский проезд», уч-к от Кирпичной ул. до Измайловского ш.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0,39\",\"CommonStyle\":{}}",
+          "{\"Value\":\" 04.02.2019 ПСД направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"12\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Ивантеевская улица – 3-й проезд Подбельского\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2,10\",\"CommonStyle\":{}}",
+          "{\"Value\":\"14.11.2018 ПСД направлена в ГАУ «Мосгосэкспертиза». 07.12.2018 выданы замечания. 17.01.2019 выдано отрицательное заключение. 29.01.2019 ПСД повторно направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"13\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Узел \\\"Площадь Семеновской Заставы\\\" – Измайловское шоссе\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1,25\",\"CommonStyle\":{}}",
+          "{\"Value\":\"15.11.2018 ПСД направлена в ГАУ «Мосгосэкспертиза». 07.12.2018 выданы замечания. 17.01.2019 выдано отрицательное заключение. 29.01.2019 ПСД повторно направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"14\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Красноказарменная улица, узел \\\"Красноказарменная улица – Лефортовский мост»\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3,41\",\"CommonStyle\":{}}",
+          "{\"Value\":\"12.12.2018 ПСД направлена в ГАУ «Мосгосэкспертиза». 24.12.2018 выданы замечания.  04.02.2019 выдано отрицательное заключение. \",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"15\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Шарикоподшипниковская улица, узел \\\"Угрешская оборотная петля\\\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2,07\",\"CommonStyle\":{}}",
+          "{\"Value\":\"12.12.2018 ПСД направлена в ГАУ «Мосгосэкспертиза». 24.12.2018 выданы замечания. 04.02.2019 выдано отрицательное заключение. \",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"16\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Трамвайная эстакада на Волоколамском шоссе (от улицы Водников до улицы Свободы, д. 1)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1,18\",\"CommonStyle\":{}}",
+          "{\"Value\":\"19.12.2018 ПСД направлена в ГАУ «Мосгосэкспертиза». 11.01.2019 выданы замечания. 29.01.2019  выдано отрицательное заключение.  \",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"17\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Проспект Буденного (от д. 21 до шоссе Энтузиастов)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3,87\",\"CommonStyle\":{}}",
+          "{\"Value\":\" 04.02.2019 ПСД направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"18\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Узел \\\"Улица З. и А. Космодемьянских – 1-й Новоподмосковный переулок\\\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0,38\",\"CommonStyle\":{}}",
+          "{\"Value\":\" 04.02.2019 ПСД направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"На объекты капитального ремонта 2020 г.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4,12\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"19\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Нижняя Красносельская улица\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1,07\",\"CommonStyle\":{}}",
+          "{\"Value\":\"ПСД готовится для направления в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"20\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Узел \\\"3-я Владимирская улица\\\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0,71\",\"CommonStyle\":{}}",
+          "{\"Value\":\"08.02.2019 ПСД направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"21\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3-я Владимирская улица (кривые уч-ки, переезд с шоссе Энтузиастов)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0,20\",\"CommonStyle\":{}}",
+          "{\"Value\":\"08.02.2019 ПСД направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"22\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Оборотная петля у ст. метро Семеновская\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0,75\",\"CommonStyle\":{}}",
+          "{\"Value\":\"ПСД готовится для направления в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"23\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Щербаковская улица, от д. 58 до Окружного проезда\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0,53\",\"CommonStyle\":{}}",
+          "{\"Value\":\"ПСД готовится для направления в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"24\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Улица Вавилова, пересечение с проспектом 60-летия Октября и Гагаринским тоннелем\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0,86\",\"CommonStyle\":{}}",
+          "{\"Value\":\"08.02.2019 ПСД направлена в ГАУ «Мосгосэкспертиза».\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "5211e0ea-5340-4e77-95d4-662d90170efb",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"Количество изъятых неправомерно используемых льготных персонифицированных карт и иных льготных  проездных документов\",\"CommonStyle\":{}}",
+          "{\"Value\":\"188\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1158\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Количество выявленных безбилетных пассажиров, которых контролёры обязали оплатить проезд\",\"CommonStyle\":{}}",
+          "{\"Value\":\"10878 пасс.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"59273 пасс.\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Количество высаженных пассажиров и пассажиров доставленных в ОВД, отказавшихся оплатить проезд \",\"CommonStyle\":{}}",
+          "{\"Value\":\"1903 пасс.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"8570 пасс.\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Среднее количество ежедневно работавших контролёров ГУП «Мосгортранс» по рабочим дням / Среднее количество специалистов ГКУ «Организатор перевозок», исполняющих обязанности в рабочие дни на маршрутах сети НГПТ ГУП «Мосгортранс»\",\"CommonStyle\":{}}",
+          "{\"Value\":\"236 чел. / 169 чел.\",\"CommonStyle\":{}}",
+          "{\"Value\":\"237 чел. / 163 чел.\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Количество принятых мер реагирования в отношении лиц, допустивших нарушения правил пользования НГПТ (в расчёте на одного контролёра ГУП «Мосгортранс»)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"54,95\",\"CommonStyle\":{}}",
+          "{\"Value\":\"291,14\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"Эффективность работы контролёров по количеству принятых мер реагирования в отношении лиц, допустивших нарушения правил пользования НГПТ в расчёте на одного контролёра в сравнении с аналогичным периодом 2018 года\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Возросла на 33,55 %\",\"CommonStyle\":{}}",
+          "{\"Value\":\"Возросла на 12,76 %\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "7299f8a8-a998-4238-9ed4-7cc57e230bab",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"28.01.19-01.02.19\",\"CommonStyle\":{}}",
+          "{\"Value\":\"8.30\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4834\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4842\",\"CommonStyle\":{}}",
+          "{\"Value\":\"+8\",\"CommonStyle\":{}}",
+          "{\"Value\":\"764\",\"CommonStyle\":{}}",
+          "{\"Value\":\"737\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-27\",\"CommonStyle\":{}}",
+          "{\"Value\":\"602\",\"CommonStyle\":{}}",
+          "{\"Value\":\"592\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-10\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6200\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6171\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-29\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"28.01.19-01.02.19\",\"CommonStyle\":{}}",
+          "{\"Value\":\"17.00\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5045\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5040\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-5\",\"CommonStyle\":{}}",
+          "{\"Value\":\"748\",\"CommonStyle\":{}}",
+          "{\"Value\":\"719\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-29\",\"CommonStyle\":{}}",
+          "{\"Value\":\"564\",\"CommonStyle\":{}}",
+          "{\"Value\":\"549\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-15\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6357\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6308\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-49\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"04.02.19-08.02.19\",\"CommonStyle\":{}}",
+          "{\"Value\":\"8.30\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4835\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4891\",\"CommonStyle\":{}}",
+          "{\"Value\":\"+56\",\"CommonStyle\":{}}",
+          "{\"Value\":\"767\",\"CommonStyle\":{}}",
+          "{\"Value\":\"756\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-11\",\"CommonStyle\":{}}",
+          "{\"Value\":\"602\",\"CommonStyle\":{}}",
+          "{\"Value\":\"592\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-10\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6204\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6329\",\"CommonStyle\":{}}",
+          "{\"Value\":\"+35\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"04.02.19-08.02.19\",\"CommonStyle\":{}}",
+          "{\"Value\":\"17.00\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5044\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5059\",\"CommonStyle\":{}}",
+          "{\"Value\":\"+15\",\"CommonStyle\":{}}",
+          "{\"Value\":\"751\",\"CommonStyle\":{}}",
+          "{\"Value\":\"743\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-8\",\"CommonStyle\":{}}",
+          "{\"Value\":\"564\",\"CommonStyle\":{}}",
+          "{\"Value\":\"555\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-9\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6359\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6357\",\"CommonStyle\":{}}",
+          "{\"Value\":\"-2\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "d5a38d11-f694-4be7-89d0-601d5fe192a9",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"2017\",\"CommonStyle\":{}}",
+          "{\"Value\":\"550\",\"CommonStyle\":{}}",
+          "{\"Value\":\"45 постановлениц (80 в расследовании)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"266\",\"CommonStyle\":{}}",
+          "{\"Value\":\"22 постановления (70 в расследовании)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"8,3\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"2018\",\"CommonStyle\":{}}",
+          "{\"Value\":\"566\",\"CommonStyle\":{}}",
+          "{\"Value\":\"33 постановления (338 в расследовании)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"264\",\"CommonStyle\":{}}",
+          "{\"Value\":\"16 постановлений (160 в расследовании)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6,1\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"01.01.2019 - 10.02.2019\",\"CommonStyle\":{}}",
+          "{\"Value\":\"43\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 постановлений (43 в расследовании)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"13\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 постановлений (13 в расследовании)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"04.02.2019 - 10.02.2019\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 постановлений (6 в расследовании)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0 постановлений (2 в расследовании)\",\"CommonStyle\":{}}",
+          "{\"Value\":\"0\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "d7b953c3-fec2-4f50-ae17-c7f72b79f68a",
+      "text": "{\"Value\":\"*Графа «%(2019/2018)» для коммерческих перевозчиков рассчитывается с учетом объема перевозки ГУП «Мосгортранс» за 2019 год.\"}",
+      "infoblockValues": []
+    },
+    {
+      "infoblockId": "beaf605e-106f-4ca2-a227-6c722283f202",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"70,37\",\"CommonStyle\":{}}",
+          "{\"Value\":\"13,31\",\"CommonStyle\":{}}",
+          "{\"Value\":\"16,32\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "5960f2a4-b694-4dc9-a54e-ca1540e42c34",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"901\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"93,1\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"99,8\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"902\",\"CommonStyle\":{}}",
+          "{\"Value\":\"96,3\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"903\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"904\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"905\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"906\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"98,7\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"907\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"908\",\"CommonStyle\":{}}",
+          "{\"Value\":\"96,8\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"99\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"909\",\"CommonStyle\":{}}",
+          "{\"Value\":\"92,5\",\"CommonStyle\":{}}",
+          "{\"Value\":\"95\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"911\",\"CommonStyle\":{}}",
+          "{\"Value\":\"91,8\",\"CommonStyle\":{}}",
+          "{\"Value\":\"88,2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"95,3\",\"CommonStyle\":{}}",
+          "{\"Value\":\"92,3\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"144\",\"CommonStyle\":{}}",
+          "{\"Value\":\"98,2\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"99,2\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "0fc5ada6-74f4-4f78-aa7f-609dd7d3e7ff",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"901\",\"CommonStyle\":{}}",
+          "{\"Value\":\"11670\",\"CommonStyle\":{}}",
+          "{\"Value\":\"11882\",\"CommonStyle\":{}}",
+          "{\"Value\":\"12172\",\"CommonStyle\":{}}",
+          "{\"Value\":\"11761\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"902\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1820\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2023\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2066\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2116\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"903\",\"CommonStyle\":{}}",
+          "{\"Value\":\"15813\",\"CommonStyle\":{}}",
+          "{\"Value\":\"15241\",\"CommonStyle\":{}}",
+          "{\"Value\":\"15620\",\"CommonStyle\":{}}",
+          "{\"Value\":\"15613\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"904\",\"CommonStyle\":{}}",
+          "{\"Value\":\"13110\",\"CommonStyle\":{}}",
+          "{\"Value\":\"13482\",\"CommonStyle\":{}}",
+          "{\"Value\":\"14075\",\"CommonStyle\":{}}",
+          "{\"Value\":\"13209\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"905\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7655\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7728\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7830\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7715\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"906\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4373\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4376\",\"CommonStyle\":{}}",
+          "{\"Value\":\"4119\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"907\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6345\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6657\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6536\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6505\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"908\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7698\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7705\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7659\",\"CommonStyle\":{}}",
+          "{\"Value\":\"7423\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"909\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3463\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3437\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3638\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3367\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"911\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3029\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2279\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2469\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2673\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"144\",\"CommonStyle\":{}}",
+          "{\"Value\":\"12803\",\"CommonStyle\":{}}",
+          "{\"Value\":\"13009\",\"CommonStyle\":{}}",
+          "{\"Value\":\"13363\",\"CommonStyle\":{}}",
+          "{\"Value\":\"12799\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "ecbe234b-14e4-44af-b30a-d38d3d2de9a9",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"28.01-03.02\",\"CommonStyle\":{}}",
+          "{\"Value\":\"ООО \\\"ТрансКоммун-Сервис\\\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"8916\",\"CommonStyle\":{}}",
+          "{\"Value\":\"12 589\",\"CommonStyle\":{}}",
+          "{\"Value\":\"12 589\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1665\",\"CommonStyle\":{}}",
+          "{\"Value\":\"78\",\"CommonStyle\":{}}",
+          "{\"Value\":\"39\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"28.01-03.02\",\"CommonStyle\":{}}",
+          "{\"Value\":\"ЗАО \\\"Валль-СНГ\\\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1130\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"39\",\"CommonStyle\":{}}",
+          "{\"Value\":\"133\",\"CommonStyle\":{}}",
+          "{\"Value\":\"44\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"28.01-03.02\",\"CommonStyle\":{}}",
+          "{\"Value\":\"ООО \\\"ТВ-Сити\\\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"114\",\"CommonStyle\":{}}",
+          "{\"Value\":\"96\",\"CommonStyle\":{}}",
+          "{\"Value\":\"96\",\"CommonStyle\":{}}",
+          "{\"Value\":\"24\",\"CommonStyle\":{}}",
+          "{\"Value\":\"9\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"                            Итого:\",\"CommonStyle\":{}}",
+          "{\"Value\":\"10 160\",\"CommonStyle\":{}}",
+          "{\"Value\":\"18 785\",\"CommonStyle\":{}}",
+          "{\"Value\":\"18 785\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1728\",\"CommonStyle\":{}}",
+          "{\"Value\":\"220\",\"CommonStyle\":{}}",
+          "{\"Value\":\"86\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"04.02-10.02\",\"CommonStyle\":{}}",
+          "{\"Value\":\"ООО \\\"ТрансКоммун-Сервис\\\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"8916\",\"CommonStyle\":{}}",
+          "{\"Value\":\"12 589\",\"CommonStyle\":{}}",
+          "{\"Value\":\"12 589\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1689\",\"CommonStyle\":{}}",
+          "{\"Value\":\"78\",\"CommonStyle\":{}}",
+          "{\"Value\":\"39\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"04.02-10.02\",\"CommonStyle\":{}}",
+          "{\"Value\":\"ЗАО \\\"Валль-СНГ\\\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1130\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6100\",\"CommonStyle\":{}}",
+          "{\"Value\":\"38\",\"CommonStyle\":{}}",
+          "{\"Value\":\"133\",\"CommonStyle\":{}}",
+          "{\"Value\":\"44\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"04.02-10.02\",\"CommonStyle\":{}}",
+          "{\"Value\":\"ООО \\\"ТВ-Сити\\\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"114\",\"CommonStyle\":{}}",
+          "{\"Value\":\"96\",\"CommonStyle\":{}}",
+          "{\"Value\":\"96\",\"CommonStyle\":{}}",
+          "{\"Value\":\"24\",\"CommonStyle\":{}}",
+          "{\"Value\":\"9\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"\",\"CommonStyle\":{}}",
+          "{\"Value\":\"                            Итого:\",\"CommonStyle\":{}}",
+          "{\"Value\":\"10 160\",\"CommonStyle\":{}}",
+          "{\"Value\":\"18 785\",\"CommonStyle\":{}}",
+          "{\"Value\":\"18 785\",\"CommonStyle\":{}}",
+          "{\"Value\":\"1751\",\"CommonStyle\":{}}",
+          "{\"Value\":\"220\",\"CommonStyle\":{}}",
+          "{\"Value\":\"86\",\"CommonStyle\":{}}"
+        ]
+      ]
+    },
+    {
+      "infoblockId": "f21ac30b-d295-41a8-8083-58d009bc9f9a",
+      "text": "{\"Value\":\"* С 14.01.2019 введены в действие выделенные полосы: Минская ул.; Калужское шоссе (от д. 14с2 до выезда из деревни Городище).\"}",
+      "infoblockValues": []
+    },
+    {
+      "infoblockId": "02ba324d-82ec-4f71-9172-ccdaccc20421",
+      "infoblockValues": [
+        [
+          "{\"Value\":\"901\",\"CommonStyle\":{}}",
+          "{\"Value\":\"18863\",\"CommonStyle\":{}}",
+          "{\"Value\":\"19266\",\"CommonStyle\":{}}",
+          "{\"Value\":\"19746\",\"CommonStyle\":{}}",
+          "{\"Value\":\"19196\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"902\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2996\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3352\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3456\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3495\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"903\",\"CommonStyle\":{}}",
+          "{\"Value\":\"22388\",\"CommonStyle\":{}}",
+          "{\"Value\":\"22098\",\"CommonStyle\":{}}",
+          "{\"Value\":\"22746\",\"CommonStyle\":{}}",
+          "{\"Value\":\"22415\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"904\",\"CommonStyle\":{}}",
+          "{\"Value\":\"20227\",\"CommonStyle\":{}}",
+          "{\"Value\":\"20973\",\"CommonStyle\":{}}",
+          "{\"Value\":\"21927\",\"CommonStyle\":{}}",
+          "{\"Value\":\"20548\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"905\",\"CommonStyle\":{}}",
+          "{\"Value\":\"11416\",\"CommonStyle\":{}}",
+          "{\"Value\":\"11626\",\"CommonStyle\":{}}",
+          "{\"Value\":\"11969\",\"CommonStyle\":{}}",
+          "{\"Value\":\"11650\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"906\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6234\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6659\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6707\",\"CommonStyle\":{}}",
+          "{\"Value\":\"6295\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"907\",\"CommonStyle\":{}}",
+          "{\"Value\":\"9467\",\"CommonStyle\":{}}",
+          "{\"Value\":\"9979\",\"CommonStyle\":{}}",
+          "{\"Value\":\"9802\",\"CommonStyle\":{}}",
+          "{\"Value\":\"9772\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"908\",\"CommonStyle\":{}}",
+          "{\"Value\":\"11531\",\"CommonStyle\":{}}",
+          "{\"Value\":\"11797\",\"CommonStyle\":{}}",
+          "{\"Value\":\"11677\",\"CommonStyle\":{}}",
+          "{\"Value\":\"11266\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"909\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5111\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5230\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5508\",\"CommonStyle\":{}}",
+          "{\"Value\":\"5079\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"911\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3429\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2564\",\"CommonStyle\":{}}",
+          "{\"Value\":\"2786\",\"CommonStyle\":{}}",
+          "{\"Value\":\"3025\",\"CommonStyle\":{}}"
+        ],
+        [
+          "{\"Value\":\"144\",\"CommonStyle\":{}}",
+          "{\"Value\":\"20083\",\"CommonStyle\":{}}",
+          "{\"Value\":\"20785\",\"CommonStyle\":{}}",
+          "{\"Value\":\"21233\",\"CommonStyle\":{}}",
+          "{\"Value\":\"20354\",\"CommonStyle\":{}}"
+        ]
+      ]
+    }
+  ]
+}
